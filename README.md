@@ -1,3 +1,3 @@
 # My New Project
 
-<h2>This is a example of heading of the project</h2>
+<p>This is a example of heading of the project and this project is all about building intelligent AI applications<p>
